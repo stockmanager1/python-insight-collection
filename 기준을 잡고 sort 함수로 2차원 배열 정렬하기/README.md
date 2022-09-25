@@ -41,3 +41,8 @@ lambda x : x[1]은 2차원 리스트에서 각 1차원에 대한 1번째를
 lambda x : (x[1],x[0])은 각 1차원 리스트에서 1번째 항을 기준으로
 정렬하고 그 1번째 항에서 같은 것에 대해 0번째 리스트를 
 기준으로 졍렬한다.
+
+## 관련 백준 문제
+[좌표 정렬하기 - 11650](https://github.com/stockmanager1/baejoon-study--TIL/tree/main/%EB%B0%B1%EC%A4%80/Silver/11650.%E2%80%85%EC%A2%8C%ED%91%9C%E2%80%85%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0)
+
+[좌표 정렬하기 2 - 11651](https://github.com/stockmanager1/baejoon-study--TIL/tree/main/%EB%B0%B1%EC%A4%80/Silver/11651.%E2%80%85%EC%A2%8C%ED%91%9C%E2%80%85%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%E2%80%852)
